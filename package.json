@@ -3,5 +3,8 @@
   "private": true,
   "devDependencies": {
     "lerna": "^3.2.1"
+  },
+  "dependencies": {
+    "jest": "^23.5.0"
   }
 }
